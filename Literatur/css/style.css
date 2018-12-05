@@ -1,0 +1,28 @@
+﻿.main-header-container {
+    background: #fff;
+}
+
+.main-header {
+    width: 960px;
+    padding: 20px;
+    margin: 0 auto;
+    background-color: black;
+}
+
+.main-header .logo {
+    float: left;
+}
+
+.main-header nav {
+    float: right;
+}
+
+.main-headerul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.main-header li {
+    float: left;
+}
